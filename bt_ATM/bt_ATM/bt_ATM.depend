@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622042081 source:d:\workspace\bt_atm\main.cpp
+	"atm.h"
+
+1622074318 d:\workspace\bt_atm\atm.h
+	<iostream>
+	<fstream>
+	<vector>
+	<ctime>
+
+1622051680 source:d:\workspace\bt_atm\atm.cpp
+	"atm.h"
+
